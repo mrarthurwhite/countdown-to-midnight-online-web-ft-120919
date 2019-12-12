@@ -2,6 +2,6 @@
 
 def countdown(count)
   while count > 0
-    puts "#{count} "
+    puts "#{count} SECOND(S)!"
   end
 end
